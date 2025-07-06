@@ -1,4 +1,4 @@
-package com.jumto
+package com.jumto.bindery
 
 import android.app.Application
 import com.facebook.react.PackageList

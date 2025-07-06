@@ -1,5 +1,5 @@
 {
-  "name": "jumto",
+  "name": "bindery",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@shopify/react-native-skia": "^1.11.8",
+    "@shopify/react-native-skia": "^2.1.1",
     "react": "19.0.0",
     "react-native": "0.78.0"
   },
